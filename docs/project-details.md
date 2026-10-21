@@ -27,3 +27,22 @@ Develop a small-scale prototype.
 Test fault detection and water-flow monitoring.
 
 Evaluate the results.
+# Proposed System Architecture
+
+The proposed Jal-Jeevan 2.0 system follows this workflow:
+
+Water Supply → Sensors / Sample Input → Fault Detection → Data Processing → Water Status Monitoring → Alerts and Reports
+
+# Main Components
+
+Input Layer: Collects water flow and supply status data.
+
+Processing Layer: Identifies possible leakage or supply interruptions.
+
+Monitoring Layer: Displays water supply status.
+
+Alert Layer: Provides notifications about possible faults.
+
+# Current Status
+
+This is a proposed architecture. Implementation and testing are pending.
